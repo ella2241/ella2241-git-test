@@ -1,1 +1,2 @@
 my favorite color is pink
+Updated color.txt
